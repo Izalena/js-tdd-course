@@ -1,6 +1,11 @@
-# Project Title
+# Spotify wrapper
 
-One Paragraph of project description goes here
+A wrapper to work with the [Spotify API]("https://developer.spotify.com/documentation/web-api/"). 
+
+This project was made with the udemy course js-tdd-na-pratica:
+
+[Udemy]("https://www.udemy.com/course/js-com-tdd-na-pratica")
+[Repository]("https://github.com/willianjusten/js-tdd-course")
 
 ## Getting Started
 
